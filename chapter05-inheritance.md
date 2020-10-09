@@ -25,4 +25,7 @@
   + 슈퍼 클래스의 private멤버는 상속되지만 서브 클래스에서 직접 접근은 불가능하다. 
   + 접근 방법은 슈퍼 클래스의 public/protected 메소드를 통해 접근이 가능하다. 
   
+   ![image](https://user-images.githubusercontent.com/55094745/95550412-cfc7da80-0a43-11eb-98b5-cb8c38da2178.png)
+   
+  
   
