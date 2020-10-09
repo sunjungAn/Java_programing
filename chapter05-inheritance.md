@@ -26,6 +26,9 @@
   + 접근 방법은 슈퍼 클래스의 public/protected 메소드를 통해 접근이 가능하다. 
   
    ![image](https://user-images.githubusercontent.com/55094745/95550412-cfc7da80-0a43-11eb-98b5-cb8c38da2178.png)
+   ![image](https://user-images.githubusercontent.com/55094745/95550554-11588580-0a44-11eb-90d0-8311d96785a6.png)
+
+  + 다음과 같이 private 멤버변수에는 직접적으로 사용이 불가능하다. 위와 같은 방법으로 가져와서 사용한다. 
    
   
   
