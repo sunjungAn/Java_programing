@@ -15,6 +15,7 @@ public class Sort {
 				}
 			}
 		}
+		System.out.print("정렬결과는 다음과 같습니다.: ");
 		for(int i = 0; i<len; i++)
 		{
 			System.out.print(args[i]+" ");
