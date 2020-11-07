@@ -1,3 +1,4 @@
+
 abstract class DObject{
 	public DObject next;
 	
@@ -20,3 +21,4 @@ class Circle extends DObject{
 		System.out.println("Circle");
 	}
 }
+
